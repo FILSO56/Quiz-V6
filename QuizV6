@@ -87,7 +87,7 @@ const quiz1 = [
 
 const quiz2 = [
   { q: "Faut-il être sûr à 100% de l’identité d’une baie avant de la manger ?", a: true, exp: "Oui, certaines baies sont toxiques. En cas de doute, ne pas consommer", img: "houx.png" },
-  { q: "Certaines baies rouges peuvent être toxiques ?", a: true, exp: "Oui, par exemple l'if ou le houx.", img: "douce.png" },
+  { q: "Certaines baies rouges peuvent être toxiques ?", a: true, exp: "Oui, par exemple le houx, ou la douce amère.", img: "douce.png" },
   { q: "Peut-on cueillir des baies dans une réserve naturelle protégée ?", a: false, exp: "Non, c’est interdit par la loi.", img: "rndf.png" },
   { q: "Faut-il photographier sa cueillette ?", a: true, exp: "Oui, pour en facilietr l'identification en cas d'intoxication.", img: "photo.png" },
   { q: "Cueillir les baies immatures est une bonne pratique ?", a: false, exp: "Non, il faut attendre leur maturité, car elles peuvent être toxiques.", img: "vertes.png" },
