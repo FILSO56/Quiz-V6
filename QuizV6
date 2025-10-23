@@ -91,7 +91,7 @@ const quiz2 = [
   { q: "Peut-on cueillir des baies dans une réserve naturelle protégée ?", a: false, exp: "Non, c’est interdit par la loi.", img: "rndf.png" },
   { q: "Faut-il photographier sa cueillette ?", a: true, exp: "Oui, pour en facilietr l'identification en cas d'intoxication.", img: "photo.png" },
   { q: "Cueillir les baies immatures est une bonne pratique ?", a: false, exp: "Non, il faut attendre leur maturité, car elles peuvent être toxiques.", img: "vertes.png" },
-  { q: "Je vois un oiseau manger une baie, puis-je en faire autant sans risquer d'être malade?", a: true, exp: "Non, ce qui est bon pour un autre animal peut être toxique pour l'être humain.", img: "oiseau.png" },
+  { q: "Je vois un oiseau manger une baie, puis-je en faire autant sans risquer d'être malade?", a: false, exp: "Non, ce qui est bon pour un autre animal peut être toxique pour l'être humain.", img: "oiseau.png" },
 ];
 
 const allQuizzes = [quiz1, quiz2];
